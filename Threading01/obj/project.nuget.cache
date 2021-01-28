@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sx73mY4hQhDtVGeB9pjq/sCpHG4EBsXzHR6IPc2A0HhATLuZSM3G5SLq14TtjSQ79RviXUENf2M5KcdDTcqxPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Javier Arias\\Desktop\\repos-20200412T203141Z-001\\repos\\Threading01\\Threading01\\Threading01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Javier Arias\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Javier Arias\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Javier Arias\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Javier Arias\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
